@@ -1,17 +1,13 @@
-.buttonBox {
-    border: 4px transparent;
-    height: 50px;
-    margin: 50px;
-}
-#searchButton {
-border: 1px;
+
+.searchButton {
+border: 1px solid;
 color: aqua;
 background-color: antiquewhite ;
 border-color: aqua;
-width: 80px;
-border-radius: 25%;
+
+border-radius: 25px;
 }
-#plusButton {
+.plusButton {
 border-radius: 50%;
 background-color: aquamarine;
 color: white;
@@ -23,7 +19,7 @@ border: none;
 
     
 }
-#createAccountButton {
+.createAccountButton {
 border: 1px;
 border-color: black;
 background-color: cornflowerblue;
