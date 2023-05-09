@@ -1,18 +1,21 @@
 .buttonBox {
     border: 4px transparent;
+    height: 50px;
     margin: 50px;
 }
 #searchButton {
-border: 1;
+border: 1px;
 color: aqua;
 background-color: antiquewhite ;
 border-color: aqua;
+width: 80px;
 border-radius: 25%;
 }
 #plusButton {
 border-radius: 50%;
 background-color: aquamarine;
 color: white;
+width: 35px;
 padding: 5px 5px;
 margin: 5px;
 font-size: larger;
@@ -21,9 +24,10 @@ border: none;
     
 }
 #createAccountButton {
-border: 1;
+border: 1px;
 border-color: black;
 background-color: cornflowerblue;
 color: white;
 box-shadow: 10px 5px 5px black;
+width: 125px;
 }
